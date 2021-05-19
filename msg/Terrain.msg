@@ -1,0 +1,2 @@
+geometry_msgs/Vector3 normal_vector
+geometry_msgs/Point32 point
