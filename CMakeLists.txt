@@ -15,8 +15,9 @@ add_message_files(
     FootPlacementArray.msg
     FootPlacement.msg
     State.msg
-    TerrainArray.msg
     Terrain.msg
+    Plane.msg
+    PlaneArray.msg
     Torso.msg
     WaypointArray.msg
     Waypoint.msg
